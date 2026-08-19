@@ -1,0 +1,10 @@
+variable=20
+print(type(variable))
+variable=20.5
+print(type(variable))
+variable=False;
+print(type(variable))
+variable="Bhabesh"
+print(type(variable))
+variable=[1,2,3]
+print(type(variable))
